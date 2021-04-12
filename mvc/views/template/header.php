@@ -7,7 +7,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <base href="http://localhost/php/">
+  <base href="http://localhost/ongbau.com/">
   <title>Cafe Ong Bau</title>
 
   <link rel="stylesheet" href="./public/css/portfolio.css">

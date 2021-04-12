@@ -3,7 +3,7 @@ class sanpham{
 	var $link;
 	protected $host = "localhost";
 	protected $user = "root";
-	protected $pass = "root";
+	protected $pass = "";
 	protected $db = "cafe";
 	
 	function __construct()

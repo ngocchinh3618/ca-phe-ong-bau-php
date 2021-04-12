@@ -5,6 +5,7 @@
 <div class="contain" style="min-height:560px">
   <?php
     $key = isset($_GET['key'])? $_GET['key']:'';
+    
     switch($key){
         case 'thuonghieu':include "./mvc/views/thuonghieu.php";break;
         case 'sp':include "./mvc/views/sanpham.php";break;
