@@ -1,0 +1,66 @@
+@import url(//db.onlinewebfonts.com/c/e268f65b1679d62d682d7dfb61875008?family=MicrobrewOne3DW01-Regular);
+@import url(//db.onlinewebfonts.com/c/0f18d3f40f29e731232d202cd78c462f?family=Yeseva+One);
+
+
+.trangchu{
+  
+  height: 698px;
+  overflow: hidden;
+  position: relative;
+  margin-top: 80px;
+}
+.leaf_left {
+  margin-left: -150px;
+  margin-top: -50px;
+}
+.leaf_right{
+  float: right;
+  margin-right: -200px;
+  margin-top: 325px;
+}
+.slogan{
+  position: absolute;
+  top: 40px;
+  left: 39%;
+}
+.slogan img{
+  width: 325px;
+}
+.tagline{
+  position: absolute;
+  top: 260px;
+  left: 37%;
+}
+.content_center {
+  display: flex;
+  justify-content: center;
+}
+.fund_box {
+  position: relative;
+  border-radius: 1.6rem;
+  display: flex;
+  justify-content: center;
+  border: thin black solid;
+  margin: -185px 0 5.6rem;
+  padding: 1rem 3.5rem;
+  min-width: 30rem;
+  flex-basis: auto;
+  left: 150px;
+}
+.title-line-box{
+  position: absolute;
+  top: -15px;
+  font-size: 1.5rem;
+  line-height: normal;
+  padding: 0 1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  z-index: 1;
+  font-family: "Oswald",sans-serif;
+  background-color:#ffda4a;
+  color: #000;
+}
+.text-center{
+  font-family: "MicrobrewOne3DW01-Regular",sans-serif;
+  font-size: 5.5rem;
+}

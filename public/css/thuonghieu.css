@@ -1,0 +1,51 @@
+.containers{
+  margin: 80px 40px 0 40px;
+  min-height: 1000px;
+  z-index: 1;
+}
+.section-header{
+  position: relative;
+  background-image:url('../images/cauchuyen/1.png');
+  background-repeat: no-repeat;
+  margin-top: 160px;
+  height: 400px;
+}
+.ccth{
+  margin-left: 150px;
+  margin-top: -80px;
+  position: absolute;
+}
+.content-space-between{
+  height:850px;
+  width: 100%;
+  background-image: url('../images/cauchuyen/3.png');
+  background-position: 170px 0px;
+  position: relative;
+  background-repeat: no-repeat;
+  top: 20px;
+  left: 0;
+  z-index: 1;
+}
+.dongchay{
+  top:40px;
+  position: absolute;
+}
+.tnsm{
+  position: absolute;
+  right: 0;
+  top:20px;
+  width: 500px;
+}
+.fade-In-Right,.block-heading{
+  padding-bottom: 1rem;
+  color: #b20;
+  font-size: 2.5rem;
+  font-family: "Yeseva One",sans-serif;
+}
+.cauchuyen{
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 500px;
+  margin-bottom: 30px;
+}

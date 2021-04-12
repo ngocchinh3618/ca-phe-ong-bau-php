@@ -1,0 +1,49 @@
+
+.cards{
+  float:left;
+  border-bottom: 1px #ffcb05 solid;
+  padding: 10px 0;
+  width:70%;
+  margin: 0;
+  /* margin-bottom: 20px; */
+}
+
+.hinhsp
+{
+  padding-right: 15px;
+}
+.hinhsp img{
+  width: 100px;
+}
+/* .tensp
+{
+  padding-right: 300px;
+} */
+.giasp{
+  float: right;
+  margin-top: 40px;
+}
+
+/* nút quay lại */
+.button a{
+  text-decoration: none;
+  color: black;
+  border: thin solid #ffcb05;
+  padding: 0.4rem;
+  margin-left: 7rem;
+  background-color:#ffcb05;
+}
+.button{
+  margin-top: 25px;
+  width: 20%;
+  float:right;
+  margin-left: 30px;
+}
+.button a:hover{
+  background-color: #ffffff;
+  box-shadow: 1px 1px 3px #993300;
+}
+.add a{
+  margin-left: 0 !important;
+}
+/* end nút quay lại */
