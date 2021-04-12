@@ -40,6 +40,8 @@ class sanpham{
 	public function check($a,$b)
 	{
 		$query="select * from user where $a ='$b'";
+		# Dính sql injection rồi =))
+		# https://www.w3schools.com/sql/sql_injection.asp
 		return mysqli_query($this->link,$query);
 	}
 
